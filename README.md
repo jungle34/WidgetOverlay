@@ -2,4 +2,4 @@
 
 ## Download
 
-Clique em releases e baixe o .exe
+Clique em releases então expanda a lista de assets e baixe o .exe
